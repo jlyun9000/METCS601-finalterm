@@ -111,11 +111,12 @@ function LinkGrid() {
                         
 
                         {showingItem.linkto !== "" ? 
-                        <button className="go-detail">
-                            <Link to={`${showingItem.linkto}`} className="button-font">
+
+                        <Link to={`${showingItem.linkto}`}>
+                            <button className="go-detail">
                                 Click for Photos <span className="show-arrow"></span>
-                            </Link>
-                        </button> :
+                            </button>
+                        </Link> :
                         <p className="noting-nothing-nothing"></p>}
 
                     </div>
