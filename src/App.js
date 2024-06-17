@@ -9,6 +9,7 @@ import Homepage from './pages/Homepage';
 import Education from './pages/Education';
 import Gallary from './pages/Gallary';
 import KkomiGallary from './pages/KkomiGallary';
+import Resume from './pages/Resume';
 const App = () => {
 
 	return (
@@ -18,6 +19,7 @@ const App = () => {
 					<Route path="/" element={<Homepage />} />
 					<Route path="/education" element={<Education />}/>
 					<Route path="/gallary" element={<Gallary />}/>
+					<Route path="/resume" element={<Resume />}/>
 					<Route path="/kkomi" element={<KkomiGallary />}/>
 				</Routes>
 			</Router>

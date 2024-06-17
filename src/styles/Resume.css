@@ -1,0 +1,10 @@
+.resume-box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.resume-img{
+    width: 70%;
+    margin: auto;
+}

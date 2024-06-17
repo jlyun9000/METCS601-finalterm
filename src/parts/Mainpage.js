@@ -26,6 +26,7 @@ import img4_3 from "../img/mainpage/interest3.jpg";
 
 import img5_1 from "../img/travel/gal1.jpg";
 import img5_2 from "../img/travel/gal9.jpg";
+import img5_3 from "../img/travel/gal4.jpg";
 
 import img6_1 from "../img/kkomi/dog0.jpg";
 import img6_2 from "../img/kkomi/dog2.jpg";
@@ -39,7 +40,7 @@ const img_slide = [[],
 [img2_1],
 [img3_1,img3_2,img3_3],
 [img4_1,img4_2,img4_3],
-[img5_1,img5_2],
+[img5_1,img5_2,img5_3],
 [img6_2,img6_3,img6_4]
 ]
 function LinkGrid() {
@@ -108,17 +109,32 @@ function LinkGrid() {
                         {showingItem.id === 3 ?
                         <Abilities />:
                         <p className="description-part">{showingItem.description}</p>}
-                        
 
-                        {showingItem.linkto !== "" ? 
 
+                        {showingItem.id === 5 || showingItem.id === 6? 
                         <Link to={`${showingItem.linkto}`}>
                             <button className="go-detail">
-                                Click for Photos <span className="show-arrow"></span>
+                                Click to view <br /> Photos <span className="show-arrow"></span>
                             </button>
                         </Link> :
                         <p className="noting-nothing-nothing"></p>}
+                        {showingItem.id === 2? 
 
+                        <Link to={`${showingItem.linkto}`}>
+                            <button className="go-detail">
+                                Click to view <br />Attended Schools<span className="show-arrow"></span>
+                            </button>
+                        </Link>
+                        :
+                        <p className="noting-nothing-nothing"></p>}
+
+                        {showingItem.id === 2 ?
+                        <Link to="/resume" target="_blank">
+                            <button className="go-detail">
+                                Click to view <br /> Resume <span className="show-arrow"></span>
+                            </button>
+                        </Link> :
+                        <p className="noting-nothing-nothing"></p>}
                     </div>
                     }
                 </div>

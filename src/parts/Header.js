@@ -19,6 +19,9 @@ function Header(){
                 </p>
 
                 <li className="header-item">
+                    <Link to="/" className="link-to">
+                        Home
+                    </Link>
                     <Link to="/education" className="link-to">
                         Education
                     </Link>

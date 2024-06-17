@@ -9,13 +9,13 @@ import "../styles/Footer.css"
 import { Link } from "react-router-dom";
 
 function Footer() {
-    const resume = "https://drive.google.com/file/d/1Hq4j5X2Z9z9r8tVnd06g87_Lmfyh0A6v/view"
     const github = "https://github.com/jlyun9000"
     return(
         <div class="footer-div">
             <div className="Footer-box">
                 <div className="Footer-contact">
                     <h2>Quick Navigation</h2>
+                    
                     <Link to="/education" className="footer-link-to">
                         Education
                     </Link>
@@ -40,7 +40,7 @@ function Footer() {
                 <div className="Footer-contact">
                     <h2>Others</h2>
                     <p onClick={()=>{window.open(github)}} className="footer-link-to"> <i class="fa">&#xf09b;</i> </p>
-                    <p onClick={()=>{window.open(resume)}} className="footer-link-to"> Resume </p>
+                    <Link to="/resume" target="_blank" className="footer-link-to"> Resume </Link>
                 </div>
             </div>
             <div className="Footer-contact">Copytight &#169; 2024 Justin Yun All rights reseverd</div>
