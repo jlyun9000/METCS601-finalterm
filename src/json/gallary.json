@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "travel1",
+        "description": "Millennium Park, Illinois"
+    },
+    {
+        "id": 2,
+        "name": "travel2",
+        "description": "Key West, Florida"
+    },
+    {
+        "id": 3,
+        "name": "travel3",
+        "description": "Wendover, Utah"
+    },
+    {
+        "id": 4,
+        "name": "travel4",
+        "description": "Coalville, Utah"
+    },
+    {
+        "id": 5,
+        "name": "travel5",
+        "description": "Lincoln Memorial, Washington"
+    },
+    {
+        "id": 6,
+        "name": "travel6",
+        "description": "Grantsville, Utah"
+    },
+    {
+        "id": 7,
+        "name": "travel7",
+        "description": "UW Madison, Wisconsin"
+    },
+    {
+        "id": 8,
+        "name": "travel8",
+        "description": "Donner Summit, California" 
+    },
+    {
+        "id": 9,
+        "name": "travel9",
+        "description": "Golden Gate Bridge, California"
+    },
+    {
+        "id": 10,
+        "name": "travel10",
+        "description": "Haulover Beach, Florida"
+    },
+    {
+        "id":11,
+        "name": "travel11",
+        "description": "Goat Island, Niagara Falls. New York"
+    },
+    {
+        "id":12,
+        "name": "travel12",
+        "description": "Washington Monument, Washington"
+    }
+]

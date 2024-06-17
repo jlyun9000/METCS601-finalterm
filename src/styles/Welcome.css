@@ -1,0 +1,25 @@
+.welcome-div{
+    background-image: url(../img/home_img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100vh;
+    box-shadow: 5px 1px 30px;
+    
+}
+
+.welcome-explain{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(179, 179, 179, 0.6);
+    position:absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 25%;
+    right:10%;
+    color:white;
+    text-align: center;
+    font-size: 45px;
+}

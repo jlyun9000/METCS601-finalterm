@@ -1,0 +1,37 @@
+.education-list{
+    grid-template-columns: 1fr 1fr;
+    padding-top:20px;
+    padding-bottom: 40px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.edu-title{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.each-school{
+    display: flex;
+    justify-content: center;
+    margin: 1px;
+    padding: 10px;
+
+}
+
+.school-img{
+    margin: 20px;
+    width: 400px;
+}
+
+.school-description{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 350px;
+    font-size: 20px;
+}
+
+.each-school{
+    margin: 20px;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "About Me",
+        "description": "Hi Everyone! My name is Justin Yun. I am currently taking Master Degree in Computer Information System in Boston University",
+        "linkto" : ""
+    },
+    {
+        "id": 2,
+        "name": "Education",
+        "description": "I began my educational journey by graduating from high school in Korea before deciding to study abroad in the United States. I initially enrolled at University of Wisconsin-Milwaukee, majoring in computer science, and after my sophomore year, I transferred to University of Wisconsin-Madison (Go Badgers!). I graduated in May of 2022 with a degree in computer science. Continuing my passion for technology, I decided to pursue a Master’s degree in Computer Information Systems at Boston University MET, starting in January 2024. This decision has been incredibly fulfilling, and I am excited about the opportunities ahead",
+        "linkto" : "/education"
+    },
+    {
+        "id": 3,
+        "name": "Skills",
+        "description": "",
+        "linkto" : ""
+    },
+    {
+        "id": 4,
+        "name": "Interests",
+        "description": "I'm passionate about bicycling, which combines fitness and adventure as I explore new trails and enjoy the outdoors. Cooking is my creative outlet, where I experiment with diverse recipes and ingredients to create delicious meals. I’ve always been drawn to computer games, enjoying the immersive experiences and the sense of community they offer. Additionally, I love programming, particularly in game development, where I can merge my technical skills and creativity to design and build engaging games.",
+        "linkto" : ""
+    },
+    {
+        "id": 5,
+        "name": "Gallary",
+        "description": "Welcome to my Gallery! Here, you’ll find a collection of photos from my recent adventures to Washington DC, Florida, and beyond. Each snapshot captures the essence of the places I've visited and the memories I've made. I’ll be updating this gallery regularly, so be sure to check back often for more updates and new photos from my travels. Enjoy the journey with me!",
+        "linkto" : "/gallary"
+    },
+    {
+        "id": 6,
+        "name": "Kkomi's Gallary",
+        "description": "Welcome to Kkomi's Gallery, where you'll find a collection of delightful pictures of my beloved Maltipoo, Kkomi. She just turned 4 last May and brings endless joy to my life. She is a unique blend of shyness and boldness; she is cautious and reserved outside, but at home, she reigns supreme as the undisputed Queen. Her love for chasing soft rubber balls is unstoppable, and her favorite toy is anything that’s brand-new. Kkomi fills my life with love and happiness, and I am excited to share her adorable moments with you.",
+        "linkto" : "/kkomi"
+    }
+]

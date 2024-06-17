@@ -1,0 +1,21 @@
+.ability{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.ability-list{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ability-img{
+    height: 100px;
+    padding: 20px;
+}
+
+.ability-description{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}

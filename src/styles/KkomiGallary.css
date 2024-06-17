@@ -1,0 +1,91 @@
+.gallary-back-dog{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.733),rgba(0, 0, 0, 0.733)), url("../img/logo.jpg");;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.kkomi-title{
+    color: white;
+    font-size: 50px;
+}
+
+.column-three-grid{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 15px;
+
+}
+
+.img-card{
+    border: 4px solid white;
+    margin:20px;
+    width:80%;
+    height: 300px;
+}
+
+.dog-img{
+
+    width: 100%;
+    height: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+    object-fit: cover;
+}
+
+
+.img-full-show{
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.774);;
+}
+
+.exit-icon-gallary{
+    position:absolute;
+    margin-left:40px;
+    margin-top: 40px;
+    scale: calc(4);
+    color: white;
+}
+.exit-icon-gallary:hover, .dog-img:hover{
+    cursor: pointer;
+}
+
+.full-img{
+    margin: auto;
+    margin-top: 50px;
+    display: block;
+    height: 60%;
+}
+
+
+.go-back{
+    color: white;
+    text-decoration: none;
+
+}
+
+@keyframes imgOn {
+    from{
+        opacity: 0;
+        transform: scale(0.2);
+    }
+    to{
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.img-full-show.imgOn{
+    animation: imgOn 0.3s forwards;
+}
+

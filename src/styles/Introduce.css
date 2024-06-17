@@ -1,0 +1,22 @@
+.introduce-div{
+    margin: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 124px;
+}
+
+.intro_img1{
+    margin-top: 120px;
+    width: 360px;
+    height: 360px; 
+    border-radius: 60%;
+    object-fit: cover;
+}
+
+.introduce-title{
+    font-size: 3vw;
+}
+.introduce-description{
+    font-size: 1.4vw;
+}
