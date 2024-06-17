@@ -3,6 +3,8 @@ This is a README.md - summary for Final Term Project.
 
 This webpage is built by React Application. Below is a summary of the project structure and its components.
 
+https://jlyun9000.github.io/METCS601-finalterm/
+
 ## App.js
 Root component of the React Application. It integrates four main pages:
 + Homepage
