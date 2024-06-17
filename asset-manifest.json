@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/METCS601-finalterm/static/css/main.703c4564.css",
-    "main.js": "/METCS601-finalterm/static/js/main.7f5cb8a1.js",
+    "main.js": "/METCS601-finalterm/static/js/main.9971c0e4.js",
     "static/js/453.5907eb67.chunk.js": "/METCS601-finalterm/static/js/453.5907eb67.chunk.js",
     "static/media/gal4.jpg": "/METCS601-finalterm/static/media/gal4.fceb0e03e6d9be83e07f.jpg",
     "static/media/dog9.jpg": "/METCS601-finalterm/static/media/dog9.ec3bf01d649256fc143a.jpg",
@@ -54,11 +54,11 @@
     "static/media/css3.jpg": "/METCS601-finalterm/static/media/css3.43e235d4ac46de391333.jpg",
     "index.html": "/METCS601-finalterm/index.html",
     "main.703c4564.css.map": "/METCS601-finalterm/static/css/main.703c4564.css.map",
-    "main.7f5cb8a1.js.map": "/METCS601-finalterm/static/js/main.7f5cb8a1.js.map",
+    "main.9971c0e4.js.map": "/METCS601-finalterm/static/js/main.9971c0e4.js.map",
     "453.5907eb67.chunk.js.map": "/METCS601-finalterm/static/js/453.5907eb67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.703c4564.css",
-    "static/js/main.7f5cb8a1.js"
+    "static/js/main.9971c0e4.js"
   ]
 }
