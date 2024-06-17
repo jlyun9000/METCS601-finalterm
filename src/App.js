@@ -14,7 +14,7 @@ const App = () => {
 
 	return (
 		<div className='App'>
-			<Router basename="/METCS601-finalterm">
+			<Router basename="/finalterm-jlyun">
 				<Routes>
 					<Route path="/" element={<Homepage />} />
 					<Route path="/education" element={<Education />}/>
