@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/METCS601-finalterm/static/css/main.41f92acd.css",
-    "main.js": "/METCS601-finalterm/static/js/main.23036ab1.js",
+    "main.css": "/METCS601-finalterm/static/css/main.de2565bb.css",
+    "main.js": "/METCS601-finalterm/static/js/main.c16481dd.js",
     "static/js/453.5907eb67.chunk.js": "/METCS601-finalterm/static/js/453.5907eb67.chunk.js",
     "static/media/gal4.jpg": "/METCS601-finalterm/static/media/gal4.fceb0e03e6d9be83e07f.jpg",
     "static/media/dog9.jpg": "/METCS601-finalterm/static/media/dog9.ec3bf01d649256fc143a.jpg",
@@ -51,12 +51,12 @@
     "static/media/koreahighschool.jpg": "/METCS601-finalterm/static/media/koreahighschool.2eae03ba745d44dc9343.jpg",
     "static/media/css3.jpg": "/METCS601-finalterm/static/media/css3.43e235d4ac46de391333.jpg",
     "index.html": "/METCS601-finalterm/index.html",
-    "main.41f92acd.css.map": "/METCS601-finalterm/static/css/main.41f92acd.css.map",
-    "main.23036ab1.js.map": "/METCS601-finalterm/static/js/main.23036ab1.js.map",
+    "main.de2565bb.css.map": "/METCS601-finalterm/static/css/main.de2565bb.css.map",
+    "main.c16481dd.js.map": "/METCS601-finalterm/static/js/main.c16481dd.js.map",
     "453.5907eb67.chunk.js.map": "/METCS601-finalterm/static/js/453.5907eb67.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41f92acd.css",
-    "static/js/main.23036ab1.js"
+    "static/css/main.de2565bb.css",
+    "static/js/main.c16481dd.js"
   ]
 }
