@@ -129,7 +129,7 @@ function LinkGrid() {
                         <p className="noting-nothing-nothing"></p>}
 
                         {showingItem.id === 2 ?
-                        <Link to="/resume" target="_blank">
+                        <Link to="/resume">
                             <button className="go-detail">
                                 Click to view <br /> Resume <span className="show-arrow"></span>
                             </button>

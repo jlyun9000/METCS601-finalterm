@@ -40,7 +40,7 @@ function Footer() {
                 <div className="Footer-contact">
                     <h2>Others</h2>
                     <p onClick={()=>{window.open(github)}} className="footer-link-to"> <i class="fa">&#xf09b;</i> </p>
-                    <Link to="/resume" target="_blank" className="footer-link-to"> Resume </Link>
+                    <Link to="/resume" className="footer-link-to"> Resume </Link>
                 </div>
             </div>
             <div className="Footer-contact">Copytight &#169; 2024 Justin Yun All rights reseverd</div>
