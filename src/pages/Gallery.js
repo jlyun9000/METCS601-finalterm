@@ -1,13 +1,13 @@
 /**
  * MET CS601 - Fianl Term Project
  * Written by Justin Yun
- * Gallary Component
+ * Gallery Component
  */
 
 import React, {useState} from "react";
 import "../styles/Gallery.css";
 
-import gallary_data from "../json/gallary.json"
+import gallery_data from "../json/gallery.json"
 import Header from "../parts/Header";
 import travel1 from "../img/travel/gal1.jpg";
 import travel2 from "../img/travel/gal2.jpg";
@@ -22,8 +22,8 @@ import travel10 from "../img/travel/gal10.jpg"
 import travel11 from "../img/travel/gal11.jpg"
 import travel12 from "../img/travel/gal12.jpg"
 
-const gallary_list = [travel1, travel2, travel3, travel4, travel5, travel6, travel7, travel8, travel9, travel10,travel11,travel12]
-function Gallary() {
+const gallery_list = [travel1, travel2, travel3, travel4, travel5, travel6, travel7, travel8, travel9, travel10,travel11,travel12]
+function Gallery() {
     const [showingItem, setShowingItem] = useState(null);
     const [animationName, setAnimationName] = useState("")
 
@@ -38,25 +38,25 @@ function Gallary() {
     }
 
     return( 
-        <div className="gallary-back">
+        <div className="gallery-back">
 
             <Header />
-            <h2 className="gallary-title">My Gallary</h2>
+            <h2 className="gallery-title">My Gallery</h2>
             <div className="column-three-grid">
-                {gallary_data.map(curr_item => (
+                {gallery_data.map(curr_item => (
                     <div className="img-card">
-                        <img src={gallary_list[`${curr_item.id-1}`]} alt="travel" className="travel-img" onClick={() => itemClick(curr_item)}/>
+                        <img src={gallery_list[`${curr_item.id-1}`]} alt="travel" className="travel-img" onClick={() => itemClick(curr_item)}/>
                     </div>
                 ))}
             </div>
             {showingItem && (
                 <div className={`img-full-show ${animationName}`}>
-                    <div className="exit-icon-gallary" onClick={goBackClick}>
+                    <div className="exit-icon-gallery" onClick={goBackClick}>
                         <span class="material-symbols-outlined">
                             close
                         </span>
                     </div>
-                    <img src={gallary_list[showingItem.id-1]} alt="travel" className="full-img"/>
+                    <img src={gallery_list[showingItem.id-1]} alt="travel" className="full-img"/>
                     <p className="img-description">{showingItem.description}</p>
                     
                 </div>
@@ -65,4 +65,4 @@ function Gallary() {
     );
 }
 
-export default Gallary;
+export default Gallery;

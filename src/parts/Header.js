@@ -29,7 +29,7 @@ function Header(){
                         Gallery
                     </Link>
                     <Link to="/kkomi" className="link-to">
-                        Kkomi's Gallary
+                        Kkomi's Gallery
                     </Link>
                 </li>
             </div>

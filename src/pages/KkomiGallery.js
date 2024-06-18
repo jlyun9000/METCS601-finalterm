@@ -1,7 +1,7 @@
 /**
  * MET CS601 - Fianl Term Project
  * Written by Justin Yun
- * KkomiGallary Component
+ * KkomiGallery Component
  */
 
 import React, {useState} from "react";
@@ -23,7 +23,7 @@ import kk12 from "../img/kkomi/dog12.jpg"
 
 const dog_list = [kk1,kk2,kk3,kk4,kk5,kk6,kk7,kk8,kk9,kk10,kk11,kk12]
 
-function KkomiGallary() {
+function KkomiGallery() {
 
     const [showingItem, setShowingItem] = useState(null);
     const [animationName, setAnimationName] = useState("")
@@ -39,10 +39,10 @@ function KkomiGallary() {
     }
 
     return( 
-        <div className="gallary-back-dog">
+        <div className="gallery-back-dog">
 
             <Header />
-            <h2 className="kkomi-title">Gallary for Kkomi</h2>
+            <h2 className="kkomi-title">Gallery for Kkomi</h2>
             <div className="column-three-grid">
                 {dog_data.map(curr_item => (
                     <div className="img-card">
@@ -52,7 +52,7 @@ function KkomiGallary() {
             </div>
             {showingItem && (
                 <div className={`img-full-show ${animationName}`}>
-                    <div className="exit-icon-gallary" onClick={goBackClick}>
+                    <div className="exit-icon-gallery" onClick={goBackClick}>
                         <span class="material-symbols-outlined">
                             close
                         </span>
@@ -64,4 +64,4 @@ function KkomiGallary() {
         </div>
     );
 }
-export default KkomiGallary
+export default KkomiGallery

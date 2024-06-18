@@ -1,4 +1,4 @@
-.gallary-back-dog{
+.gallery-back-dog{
     background-image: linear-gradient(rgba(0, 0, 0, 0.733),rgba(0, 0, 0, 0.733)), url("../img/logo.jpg");;
     background-repeat: no-repeat;
     background-size: cover;
@@ -49,14 +49,14 @@
     background-color: rgba(0, 0, 0, 0.774);;
 }
 
-.exit-icon-gallary{
+.exit-icon-gallery{
     position:absolute;
     margin-left:40px;
     margin-top: 40px;
     scale: calc(4);
     color: white;
 }
-.exit-icon-gallary:hover, .dog-img:hover{
+.exit-icon-gallery:hover, .dog-img:hover{
     cursor: pointer;
 }
 

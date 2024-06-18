@@ -23,7 +23,7 @@ function Footer() {
                         Gallery
                     </Link>
                     <Link to="/kkomi" className="footer-link-to">
-                        Kkomi's Gallary
+                        Kkomi's Gallery
                     </Link>
                 </div>
                 <div className="Footer-contact">
