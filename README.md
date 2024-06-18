@@ -48,7 +48,7 @@ This component displays images of programming languages I can do.
 
 > datas.json is used in Mainpage.js, use for displaying each item's description.
 
-> gallery.json and kkomi.json is use for displaying each images in a short size of codes by using . function
+> gallery.json and kkomi.json is use for minimizing Gallery.js/KkomiGallery.js code.
 
 ## Screenshots
 ### Header and Welcome Image 
