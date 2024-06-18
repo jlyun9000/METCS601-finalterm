@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/finalterm-jlyun/static/css/main.0b9e54a5.css",
-    "main.js": "/finalterm-jlyun/static/js/main.04bc0ba4.js",
+    "main.css": "/finalterm-jlyun/static/css/main.65558534.css",
+    "main.js": "/finalterm-jlyun/static/js/main.5a99d5a8.js",
     "static/js/453.5907eb67.chunk.js": "/finalterm-jlyun/static/js/453.5907eb67.chunk.js",
     "static/media/gal4.jpg": "/finalterm-jlyun/static/media/gal4.fceb0e03e6d9be83e07f.jpg",
     "static/media/dog9.jpg": "/finalterm-jlyun/static/media/dog9.ec3bf01d649256fc143a.jpg",
@@ -36,6 +36,7 @@
     "static/media/galleryback.jpg": "/finalterm-jlyun/static/media/galleryback.6d1358dd9ef8be6af65e.jpg",
     "static/media/gal12.jpg": "/finalterm-jlyun/static/media/gal12.98a4afa60b2f97fc40d1.jpg",
     "static/media/gal5.jpg": "/finalterm-jlyun/static/media/gal5.5846620b8a02cfdc3c76.jpg",
+    "static/media/eduback.jpg": "/finalterm-jlyun/static/media/eduback.62ddd2c15cedc7f63bf1.jpg",
     "static/media/interest3.jpg": "/finalterm-jlyun/static/media/interest3.5c8596b32b3f1115027a.jpg",
     "static/media/dog5.jpg": "/finalterm-jlyun/static/media/dog5.eec9c55bcd013c3d4cab.jpg",
     "static/media/dog1.jpg": "/finalterm-jlyun/static/media/dog1.cb95967d8e73392bb7a3.jpg",
@@ -53,12 +54,12 @@
     "static/media/koreahighschool.jpg": "/finalterm-jlyun/static/media/koreahighschool.2eae03ba745d44dc9343.jpg",
     "static/media/css3.jpg": "/finalterm-jlyun/static/media/css3.43e235d4ac46de391333.jpg",
     "index.html": "/finalterm-jlyun/index.html",
-    "main.0b9e54a5.css.map": "/finalterm-jlyun/static/css/main.0b9e54a5.css.map",
-    "main.04bc0ba4.js.map": "/finalterm-jlyun/static/js/main.04bc0ba4.js.map",
+    "main.65558534.css.map": "/finalterm-jlyun/static/css/main.65558534.css.map",
+    "main.5a99d5a8.js.map": "/finalterm-jlyun/static/js/main.5a99d5a8.js.map",
     "453.5907eb67.chunk.js.map": "/finalterm-jlyun/static/js/453.5907eb67.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b9e54a5.css",
-    "static/js/main.04bc0ba4.js"
+    "static/css/main.65558534.css",
+    "static/js/main.5a99d5a8.js"
   ]
 }
