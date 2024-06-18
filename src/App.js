@@ -7,8 +7,8 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Homepage from './pages/Homepage';
 import Education from './pages/Education';
-import Gallary from './pages/Gallary';
-import KkomiGallary from './pages/KkomiGallary';
+import Gallery from './pages/Gallery';
+import KkomiGallery from './pages/KkomiGallery';
 import Resume from './pages/Resume';
 const App = () => {
 
@@ -18,9 +18,9 @@ const App = () => {
 				<Routes>
 					<Route path="/" element={<Homepage />} />
 					<Route path="/education" element={<Education />}/>
-					<Route path="/gallary" element={<Gallary />}/>
+					<Route path="/gallery" element={<Gallery />}/>
 					<Route path="/resume" element={<Resume />}/>
-					<Route path="/kkomi" element={<KkomiGallary />}/>
+					<Route path="/kkomi" element={<KkomiGallery />}/>
 				</Routes>
 			</Router>
 		</div>

@@ -25,8 +25,8 @@ function Header(){
                     <Link to="/education" className="link-to">
                         Education
                     </Link>
-                    <Link to="/gallary" className="link-to">
-                        Gallary
+                    <Link to="/gallery" className="link-to">
+                        Gallery
                     </Link>
                     <Link to="/kkomi" className="link-to">
                         Kkomi's Gallary

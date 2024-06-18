@@ -5,7 +5,7 @@
  */
 
 import React, {useState} from "react";
-import "../styles/KkomiGallary.css"
+import "../styles/KkomiGallery.css"
 import dog_data from "../json/kkomi.json"
 import Header from "../parts/Header";
 import kk1 from "../img/kkomi/dog1.jpg"

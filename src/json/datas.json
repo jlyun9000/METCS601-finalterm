@@ -25,13 +25,13 @@
     },
     {
         "id": 5,
-        "name": "Gallary",
+        "name": "Gallery",
         "description": "Welcome to my Gallery! Here, you’ll find a collection of photos from my recent adventures to Washington DC, Florida, and beyond. Each snapshot captures the essence of the places I've visited and the memories I've made. I’ll be updating this gallery regularly, so be sure to check back often for more updates and new photos from my travels. Enjoy the journey with me!",
-        "linkto" : "/gallary"
+        "linkto" : "/gallery"
     },
     {
         "id": 6,
-        "name": "Kkomi's Gallary",
+        "name": "Kkomi's Gallery",
         "description": "Welcome to Kkomi's Gallery, where you'll find a collection of delightful pictures of my beloved Maltipoo, Kkomi. She just turned 4 last May and brings endless joy to my life. She is a unique blend of shyness and boldness; she is cautious and reserved outside, but at home, she reigns supreme as the undisputed Queen. Her love for chasing soft rubber balls is unstoppable, and her favorite toy is anything that’s brand-new. Kkomi fills my life with love and happiness, and I am excited to share her adorable moments with you.",
         "linkto" : "/kkomi"
     }

@@ -19,8 +19,8 @@ function Footer() {
                     <Link to="/education" className="footer-link-to">
                         Education
                     </Link>
-                    <Link to="/gallary" className="footer-link-to">
-                        Gallary
+                    <Link to="/gallery" className="footer-link-to">
+                        Gallery
                     </Link>
                     <Link to="/kkomi" className="footer-link-to">
                         Kkomi's Gallary

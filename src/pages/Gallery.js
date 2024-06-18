@@ -5,7 +5,7 @@
  */
 
 import React, {useState} from "react";
-import "../styles/Gallary.css";
+import "../styles/Gallery.css";
 
 import gallary_data from "../json/gallary.json"
 import Header from "../parts/Header";
