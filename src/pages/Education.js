@@ -18,7 +18,7 @@ function Education() {
     const bu = "https://www.bu.edu/"
     const korea ="https://banpo.sen.hs.kr/"
     return(
-        <div id="education">
+        <div className="education">
             <Header />
             
             <div className="education-list">

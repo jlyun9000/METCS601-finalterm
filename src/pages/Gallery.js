@@ -45,7 +45,7 @@ function Gallery() {
             <div className="column-three-grid">
                 {gallery_data.map(curr_item => (
                     <div className="img-card">
-                        <img src={gallery_list[`${curr_item.id-1}`]} alt="travel" className="travel-img" onClick={() => itemClick(curr_item)}/>
+                        <img src={gallery_list[`${curr_item.id-1}`]} alt="images" className="travel-img" onClick={() => itemClick(curr_item)}/>
                     </div>
                 ))}
             </div>
@@ -56,7 +56,7 @@ function Gallery() {
                             close
                         </span>
                     </div>
-                    <img src={gallery_list[showingItem.id-1]} alt="travel" className="full-img"/>
+                    <img src={gallery_list[showingItem.id-1]} alt="images-big" className="full-img"/>
                     <p className="img-description">{showingItem.description}</p>
                     
                 </div>
