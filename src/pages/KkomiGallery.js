@@ -46,7 +46,7 @@ function KkomiGallery() {
             <div className="column-three-grid">
                 {dog_data.map(curr_item => (
                     <div className="img-card">
-                        <img src={dog_list[`${curr_item.id-1}`]} alt="travel" className="dogimage" onClick={() => itemClick(curr_item)}/>
+                        <img src={dog_list[`${curr_item.id-1}`]} alt="travel" className="dog-img" onClick={() => itemClick(curr_item)}/>
                     </div>
                 ))}
             </div>
@@ -57,7 +57,7 @@ function KkomiGallery() {
                             close
                         </span>
                     </div>
-                    <img src={dog_list[showingItem.id-1]} alt="dogimage-big" className="full-img"/>
+                    <img src={dog_list[showingItem.id-1]} alt="dog" className="full-img"/>
                     
                 </div>
             )}
