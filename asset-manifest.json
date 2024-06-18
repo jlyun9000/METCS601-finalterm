@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/finalterm-jlyun/static/css/main.193d0f53.css",
+    "main.css": "/finalterm-jlyun/static/css/main.0b9e54a5.css",
     "main.js": "/finalterm-jlyun/static/js/main.04bc0ba4.js",
     "static/js/453.5907eb67.chunk.js": "/finalterm-jlyun/static/js/453.5907eb67.chunk.js",
     "static/media/gal4.jpg": "/finalterm-jlyun/static/media/gal4.fceb0e03e6d9be83e07f.jpg",
@@ -53,12 +53,12 @@
     "static/media/koreahighschool.jpg": "/finalterm-jlyun/static/media/koreahighschool.2eae03ba745d44dc9343.jpg",
     "static/media/css3.jpg": "/finalterm-jlyun/static/media/css3.43e235d4ac46de391333.jpg",
     "index.html": "/finalterm-jlyun/index.html",
-    "main.193d0f53.css.map": "/finalterm-jlyun/static/css/main.193d0f53.css.map",
+    "main.0b9e54a5.css.map": "/finalterm-jlyun/static/css/main.0b9e54a5.css.map",
     "main.04bc0ba4.js.map": "/finalterm-jlyun/static/js/main.04bc0ba4.js.map",
     "453.5907eb67.chunk.js.map": "/finalterm-jlyun/static/js/453.5907eb67.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.193d0f53.css",
+    "static/css/main.0b9e54a5.css",
     "static/js/main.04bc0ba4.js"
   ]
 }
