@@ -8,9 +8,10 @@ https://jlyun9000.github.io/finalterm-jlyun/
 ## App.js
 Root component of the React Application. It integrates four main pages:
 + Homepage
-+  Education 
-+ Gallary 
-+  KkomiGallary
++ Education 
++ Gallery 
++ KkomiGallery
++ Resume
 
 
 ## Homepage.js / Homepage.css
@@ -27,10 +28,10 @@ Functional component in the React application that serves as the main landing pa
 ## Education.js / Education.css
 A component shows educational background information.
 
-## Gallary.js / Gallary.css
+## Gallery.js / Gallery.css
 A gallery component displaying my travel photos in a grid layout.
 
-## KkomiGallary.js / KkomiGallary.css
+## KkomiGalleary.js / KkomiGallery.css
 A gallery component featuring photos of my dog, also arranged in a grid layout.
 
 ## Screenshots
@@ -49,7 +50,7 @@ A gallery component featuring photos of my dog, also arranged in a grid layout.
 ### Education Image
 ![default](./readmeIMG/education.png)
 
-### Gallary Image
+### Gallery Image
 ![default](./readmeIMG/gallary.png)
 
 
