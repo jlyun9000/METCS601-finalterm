@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/finalterm-jlyun/static/css/main.65558534.css",
-    "main.js": "/finalterm-jlyun/static/js/main.5a99d5a8.js",
+    "main.js": "/finalterm-jlyun/static/js/main.90872c0f.js",
     "static/js/453.5907eb67.chunk.js": "/finalterm-jlyun/static/js/453.5907eb67.chunk.js",
     "static/media/gal4.jpg": "/finalterm-jlyun/static/media/gal4.fceb0e03e6d9be83e07f.jpg",
     "static/media/dog9.jpg": "/finalterm-jlyun/static/media/dog9.ec3bf01d649256fc143a.jpg",
@@ -55,11 +55,11 @@
     "static/media/css3.jpg": "/finalterm-jlyun/static/media/css3.43e235d4ac46de391333.jpg",
     "index.html": "/finalterm-jlyun/index.html",
     "main.65558534.css.map": "/finalterm-jlyun/static/css/main.65558534.css.map",
-    "main.5a99d5a8.js.map": "/finalterm-jlyun/static/js/main.5a99d5a8.js.map",
+    "main.90872c0f.js.map": "/finalterm-jlyun/static/js/main.90872c0f.js.map",
     "453.5907eb67.chunk.js.map": "/finalterm-jlyun/static/js/453.5907eb67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65558534.css",
-    "static/js/main.5a99d5a8.js"
+    "static/js/main.90872c0f.js"
   ]
 }
